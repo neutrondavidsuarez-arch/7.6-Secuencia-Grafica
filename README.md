@@ -1,1 +1,1 @@
-# 6.6-Secuencia-Grafica
+# 7.6-Secuencia-Grafica
